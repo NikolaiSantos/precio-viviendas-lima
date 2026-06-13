@@ -1,0 +1,11 @@
+# Responsable global del repositorio
+* @NikolaiSantos
+# Código fuente
+/src/ @NikolaiSantos
+/scripts/ @NikolaiSantos
+# Tests
+/tests/ @NikolaiSantos
+# Documentación
+/docs/ @NikolaiSantos
+# Workflows y configuración de GitHub
+/.github/ @NikolaiSantos
